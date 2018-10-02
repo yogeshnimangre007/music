@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="action_settings">Settings</string>
+    <string name="songlist_text">Song List</string>
+    <string name="songlist">Song List: this screen will show list of songs in selected album.</string>
+    <string name="songname">Song Name</string>
+    <string name="songdetail_text">Song Player</string>
+    <string name="songdetail">Song Player: this screen will show player by which user can play pause skip forward or backward
+    in current playing song.</string>
+    <string name="play">Play/Pause</string>
+    <string name="recent_text">Recent/Album</string>
+    <string name="recent">Recent/Album: this screen will contain name and image of recent albums or songs.Picaso library will use
+    for display images.</string>
+
+    <string name="getlist">More Info</string>
+</resources>
